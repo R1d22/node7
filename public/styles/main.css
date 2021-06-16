@@ -1,0 +1,20 @@
+h1 {
+    margin-left: 550px;
+}
+.blue {
+    height: 400px;
+    width: 400px;
+}
+.red {
+    height: 400px;
+    width: 400px;
+    margin-left: 800px;
+    margin-top: -380px;
+}
+.text__left {
+    margin-left: -300px;
+}
+.text__right {
+    margin-left: -250px;
+    margin-top: 0;
+}
